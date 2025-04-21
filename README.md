@@ -48,7 +48,7 @@ df.describe()
 
 ![Screenshot (99)](https://github.com/KayyuruTharani/EXNO2DS/assets/142209319/a070d1bf-2f77-4890-84b4-220fd511850b)
 
-df.set_index("PassengerId",inplace=True)
+df.set_index("PassengerId",inplace=Tru)
 df.describe()
 
 ![Screenshot (100)](https://github.com/KayyuruTharani/EXNO2DS/assets/142209319/1f744a40-6898-494c-ade2-8cb82fd20c3d)
